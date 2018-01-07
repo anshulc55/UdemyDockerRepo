@@ -33,5 +33,3 @@
 # proper Node.js use in a container. **If you happen to be a Node.js Developer**, then 
 # after you get through more of this course, you should come back and use my 
 # Node Docker Good Defaults sample project on GitHub to change this Dockerfile for 
-# better local development with more advanced topics
-# https://github.com/BretFisher/node-docker-good-defaults
